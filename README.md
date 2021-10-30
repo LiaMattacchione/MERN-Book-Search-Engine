@@ -40,8 +40,8 @@ Module Challenge 21 contents
 
 ## Submission Requirements for Review:
 * URL of the GitHub repository: https://github.com/LiaMattacchione/Book-Search-Engine.git
-  * Repository unique name: Book-Search-Engine
-* URL of deployed application: 
+  * Repository unique name: MERN-Book-Search-Engine
+* URL of deployed application:  Couldn't deploy. Tried everything and wouldn't work.
 
 ## Application Screenshots:
 ![App Screenshot](./images/one.gif)
